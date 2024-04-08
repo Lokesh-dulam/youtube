@@ -1,8 +1,10 @@
-# React + Vite
+# loki's Youtube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple YouTube clone app developed using React for the front end. It mimics some of the basic functionalities of the popular video-sharing platform YouTube.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
+Video browsing: Users can browse through the list of available videos.
+Video playback: Users can watch videos with a video player embedded in the app.
+Search Engine: User can Search through anything and then watch related videos.  
+Comment: Users can comment on videos.
+Live Chat: User can chat on live.
